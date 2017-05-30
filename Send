@@ -1,0 +1,2 @@
+Sender em = new Sender("example@gmail.com", "password");
+em.send(subject, text, fromEmail, toEmail);
